@@ -154,4 +154,7 @@ main {
     &:nth-child(5) { left: calc(50% + 280px); }
     &:nth-child(6) { left: calc(50% + 420px); opacity: 0; }
   }
+  html{
+    width: 100%;
+  }
 }
